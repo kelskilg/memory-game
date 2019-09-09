@@ -1,3 +1,4 @@
+// Game logic
 console.log("Up and running!");
 var cardOne = "queen";
 var cardTwo = "queen";
